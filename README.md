@@ -8,7 +8,7 @@ I am a student who really likes programming
 * Age    : 15 💯
 * From   : Kalimantan, Indonesia :house: 🌏
 * Status : Student :student: 
-* Hobi   : Coding | Gaming | Sport 🔃
+* Hobi   : Coding | Gaming 🔃
 
 <br>
   
