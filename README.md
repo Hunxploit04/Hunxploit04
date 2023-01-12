@@ -12,5 +12,3 @@ I am a student who really likes programming
 
 <br>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hunxploit04&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/Hunxploit04/github-readme-stats)
-
