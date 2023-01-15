@@ -5,7 +5,7 @@
 I am a student who really likes programming
 
 * Name   : Faiz | HunX04 🧒
-* Age    : 15 💯
+* Age    : 16  💯
 * From   : Kalimantan, Indonesia :house: 🌏
 * Status : Student :student: 
 * Hobi   : Coding | Gaming 🔃
